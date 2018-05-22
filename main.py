@@ -11,3 +11,7 @@ def add_func(x)
 
 print(add_func(10))
 
+def sub_func(x):
+    return x-10
+
+print(sub_func(100))
